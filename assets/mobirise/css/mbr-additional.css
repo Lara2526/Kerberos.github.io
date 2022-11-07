@@ -134,9 +134,9 @@ body {
 }
 .btn-secondary,
 .btn-secondary:active {
-  background-color: #a3de83 !important;
-  border-color: #a3de83 !important;
-  color: #294d15 !important;
+  background-color: #932377!important;
+  border-color: #932377 !important;
+  color: #fafafa !important;
   box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.2);
 }
 .btn-secondary:hover,
@@ -311,7 +311,7 @@ body {
 .btn-secondary-outline:active {
   background-color: transparent !important;
   border-color: transparent;
-  color: #a3de83;
+  color: #932377;
 }
 .btn-secondary-outline:hover,
 .btn-secondary-outline:focus,
@@ -325,8 +325,8 @@ body {
 .btn-secondary-outline.disabled,
 .btn-secondary-outline:disabled {
   color: #294d15 !important;
-  background-color: #a3de83 !important;
-  border-color: #a3de83 !important;
+  background-color: #932377 !important;
+  border-color: #932377 !important;
 }
 .btn-info-outline,
 .btn-info-outline:active {
@@ -746,7 +746,7 @@ a {
 }
 .cid-sFGzlAXw3z .dropdown-menu,
 .cid-sFGzlAXw3z .navbar.opened {
-  background: #a3de83 !important;
+  background: #932377 !important;
 }
 .cid-sFGzlAXw3z .nav-item:focus,
 .cid-sFGzlAXw3z .nav-link:focus {
@@ -781,7 +781,7 @@ a {
   transition: all 0.3s;
   border-bottom: 1px solid transparent;
   box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1);
-  background: #a3de83;
+  background: #932377;
 }
 .cid-sFGzlAXw3z .navbar.opened {
   transition: all 0.3s;
@@ -921,7 +921,7 @@ a {
   padding: 0.667em 1.667em;
 }
 .cid-sFGzlAXw3z .navbar.navbar-expand-lg .dropdown .dropdown-menu {
-  background: #a3de83;
+  background: #932377;
 }
 .cid-sFGzlAXw3z .navbar.navbar-expand-lg .dropdown .dropdown-menu .dropdown-submenu {
   margin: 0;
@@ -1043,7 +1043,10 @@ a {
 .cid-tm8d4U7mYP {
   padding-top: 75px;
   padding-bottom: 75px;
-  background-color: #a3de83;
+  background-color: #d8d8d8;
+  font-family: Open Sans, Arial, sans-serif;
+      font-size: 14px;
+        color: #666;
 }
 @media (max-width: 767px) {
   .cid-tm8d4U7mYP .content {
@@ -1197,7 +1200,7 @@ a {
 }
 .cid-sFGzlAXw3z .dropdown-menu,
 .cid-sFGzlAXw3z .navbar.opened {
-  background: #a3de83 !important;
+  background: #932377 !important;
 }
 .cid-sFGzlAXw3z .nav-item:focus,
 .cid-sFGzlAXw3z .nav-link:focus {
@@ -1232,7 +1235,7 @@ a {
   transition: all 0.3s;
   border-bottom: 1px solid transparent;
   box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1);
-  background: #a3de83;
+  background: #932377;
 }
 .cid-sFGzlAXw3z .navbar.opened {
   transition: all 0.3s;
@@ -1372,7 +1375,7 @@ a {
   padding: 0.667em 1.667em;
 }
 .cid-sFGzlAXw3z .navbar.navbar-expand-lg .dropdown .dropdown-menu {
-  background: #a3de83;
+  background: #932377;
 }
 .cid-sFGzlAXw3z .navbar.navbar-expand-lg .dropdown .dropdown-menu .dropdown-submenu {
   margin: 0;
@@ -1696,7 +1699,7 @@ a {
 }
 .cid-sFGzlAXw3z .dropdown-menu,
 .cid-sFGzlAXw3z .navbar.opened {
-  background: #a3de83 !important;
+  background:#932377 !important;
 }
 .cid-sFGzlAXw3z .nav-item:focus,
 .cid-sFGzlAXw3z .nav-link:focus {
@@ -1731,7 +1734,7 @@ a {
   transition: all 0.3s;
   border-bottom: 1px solid transparent;
   box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1);
-  background: #a3de83;
+  background: #932377;
 }
 .cid-sFGzlAXw3z .navbar.opened {
   transition: all 0.3s;
@@ -1871,7 +1874,7 @@ a {
   padding: 0.667em 1.667em;
 }
 .cid-sFGzlAXw3z .navbar.navbar-expand-lg .dropdown .dropdown-menu {
-  background: #a3de83;
+  background: #932377;
 }
 .cid-sFGzlAXw3z .navbar.navbar-expand-lg .dropdown .dropdown-menu .dropdown-submenu {
   margin: 0;
@@ -2067,7 +2070,7 @@ a {
 }
 .cid-sFGzlAXw3z .dropdown-menu,
 .cid-sFGzlAXw3z .navbar.opened {
-  background: #a3de83 !important;
+  background: #932377 !important;
 }
 .cid-sFGzlAXw3z .nav-item:focus,
 .cid-sFGzlAXw3z .nav-link:focus {
@@ -2102,7 +2105,7 @@ a {
   transition: all 0.3s;
   border-bottom: 1px solid transparent;
   box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1);
-  background: #a3de83;
+  background: #181517;
 }
 .cid-sFGzlAXw3z .navbar.opened {
   transition: all 0.3s;
@@ -2242,7 +2245,7 @@ a {
   padding: 0.667em 1.667em;
 }
 .cid-sFGzlAXw3z .navbar.navbar-expand-lg .dropdown .dropdown-menu {
-  background: #a3de83;
+  background: #932377;
 }
 .cid-sFGzlAXw3z .navbar.navbar-expand-lg .dropdown .dropdown-menu .dropdown-submenu {
   margin: 0;
