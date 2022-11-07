@@ -144,15 +144,15 @@ body {
 .btn-secondary.focus,
 .btn-secondary.active {
   color: #ffffff !important;
-  background-color: #70cc3f !important;
-  border-color: #70cc3f !important;
+  background-color: #F3BB45 !important;
+  border-color: #F3BB45!important;
   box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.2);
 }
 .btn-secondary.disabled,
 .btn-secondary:disabled {
   color: #294d15 !important;
-  background-color: #70cc3f !important;
-  border-color: #70cc3f !important;
+  background-color: #F3BB45 !important;
+  border-color: #F3BB45 !important;
 }
 .btn-info,
 .btn-info:active {
@@ -317,7 +317,7 @@ body {
 .btn-secondary-outline:focus,
 .btn-secondary-outline.focus,
 .btn-secondary-outline.active {
-  color: #70cc3f !important;
+  color: #F3BB45 !important;
   background-color: transparent!important;
   border-color: transparent!important;
   box-shadow: none!important;
@@ -526,11 +526,11 @@ a[class*="text-"]:not(.nav-link):not(.dropdown-item):not([role]):not(.navbar-cap
   background-position: 0px 1.2em;
   background-position: -10000px 1.2em;
 }
-a[class*="text-"]:not(.nav-link):not(.dropdown-item):not([role]):not(.navbar-caption):hover {
+/*a[class*="text-"]:not(.nav-link):not(.dropdown-item):not([role]):not(.navbar-caption):hover {
   transition: background-position 2s ease-in-out;
   background-image: linear-gradient(currentColor 50%, currentColor 50%);
   background-position: 0px 1.2em;
-}
+}*/
 .nav-tabs .nav-link.active {
   color: #fa4659;
 }
@@ -702,11 +702,11 @@ a {
   transform: scale(0, 1);
   transition: all 0.25s ease-in-out;
 }
-.cid-sFGzlAXw3z .dropdown-menu {
+/*.cid-sFGzlAXw3z .dropdown-menu {
   padding: 0;
   border-radius: 4px;
   box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1);
-}
+}*/
 .cid-sFGzlAXw3z .dropdown-item {
   border-bottom: 1px solid #e6e6e6;
 }
@@ -1023,7 +1023,7 @@ a {
   }
 }
 .cid-tm86XfycdF {
-  background-image: url("../../../assets/images/mbr.jpeg");
+  background-image: url("../../../assets/img/fondo.png");
 }
 .cid-tm86XfycdF .mbr-fallback-image.disabled {
   display: none;
@@ -1043,7 +1043,7 @@ a {
 .cid-tm8d4U7mYP {
   padding-top: 75px;
   padding-bottom: 75px;
-  background-color: #d8d8d8;
+  
   font-family: Open Sans, Arial, sans-serif;
       font-size: 14px;
         color: #666;
